@@ -1,0 +1,207 @@
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AdventureWorksTask.exe
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AdventureWorksTask.deps.json
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AdventureWorksTask.runtimeconfig.json
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AdventureWorksTask.runtimeconfig.dev.json
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AdventureWorksTask.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AdventureWorksTask.pdb
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.AssemblyInfoInputs.cache
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.AssemblyInfo.cs
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.RazorTargetAssemblyInfo.cache
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\staticwebassets\AdventureWorksTask.StaticWebAssets.Manifest.cache
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\staticwebassets\AdventureWorksTask.StaticWebAssets.xml
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.pdb
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.genruntimeconfig.cache
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\efpt.config.json
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.csproj.CopyComplete
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.csproj.CoreCompileInputs.cache
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bgx\source\repos\AdventureWorksTask\obj\Debug\netcoreapp3.1\AdventureWorksTask.csprojAssemblyReference.cache
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\efpt.config.json
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.exe
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.deps.json
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.runtimeconfig.json
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.runtimeconfig.dev.json
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.pdb
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.csprojAssemblyReference.cache
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.AssemblyInfoInputs.cache
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.AssemblyInfo.cs
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.csproj.CoreCompileInputs.cache
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.RazorTargetAssemblyInfo.cache
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.csproj.CopyComplete
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\staticwebassets\AdventureWorksTask.StaticWebAssets.Manifest.cache
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\staticwebassets\AdventureWorksTask.StaticWebAssets.xml
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.dll
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.pdb
+C:\Users\bgx\Desktop\New folder (2)\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.genruntimeconfig.cache
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\efpt.config.json
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.exe
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.deps.json
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.runtimeconfig.json
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.runtimeconfig.dev.json
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AdventureWorksTask.pdb
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.csprojAssemblyReference.cache
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.AssemblyInfoInputs.cache
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.AssemblyInfo.cs
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.csproj.CoreCompileInputs.cache
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.RazorTargetAssemblyInfo.cache
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.csproj.CopyComplete
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\staticwebassets\AdventureWorksTask.StaticWebAssets.Manifest.cache
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\staticwebassets\AdventureWorksTask.StaticWebAssets.xml
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.dll
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.pdb
+C:\Users\bgx\Desktop\AdventureWorks2012_Task\Backend\obj\Debug\netcoreapp3.1\AdventureWorksTask.genruntimeconfig.cache

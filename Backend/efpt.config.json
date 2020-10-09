@@ -1,0 +1,49 @@
+﻿{
+   "ContextClassName": "Adventureworks2012Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "",
+   "OutputContextPath": "",
+   "OutputPath": "EFCoreModels",
+   "ProjectRootNamespace": "AdventureWorksTask",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[Production].[Product]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[Production].[ProductDescription]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[Production].[ProductModel]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[Production].[ProductModelProductDescriptionCulture]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[Production].[vProductAndDescription]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[Purchasing].[PurchaseOrderDetail]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}
